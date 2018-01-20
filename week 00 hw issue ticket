@@ -1,0 +1,22 @@
+week 00 hw issue ticket
+
+
+
+## 🚀 Completion looks like:
+
+You have answered the following questions in your issue ticket:
+
+1. What types of HTML elements are in this page? Which of these are new to you?
+2. Find where the stylesheets are linked. There are two of them. `style.css` has all of our styles in it, but what does `reset.css` do? Try taking out `reset.css`. Then try putting `reset.css` above `style.css`.
+3. Find the div with class `clearfix` and remove it from the page. What happens? What's in the css in that style rule?
+4. How are the images under recent projects included?
+5. When does the profile picture show up? How is that managed?
+6. Write four questions of your own about the code here.
+
+## 🚀 Your homework submission should include:
+
+- An [issue ticket](https://github.com/ga-students/FEWD-NYC-1.17.18/issues/new) created on _this repo_.
+- Your issue ticket contains answers to the questions above.
+- Completion, comfort, wins, losses, questions.
+
+## This homework is due 🚨 4PM ON MONDAY 1/22 🚨
